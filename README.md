@@ -1,1 +1,1 @@
-# quick-cash
+# Quick Cash
